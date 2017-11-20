@@ -7,10 +7,9 @@ phpdomxml is an OOP implementation of the XML DOM for PHP. Its aim is to be a li
 
 ## Documentation
 
-http://webtweakers.com/projects/phpdomxml/docs/index.html
+http://phpdomxml.webtweakers.com/docs/index.html
 
 
 ## Examples
 
-http://webtweakers.com/projects/phpdomxml/docs/examples.php
-
+http://phpdomxml.webtweakers.com/docs/examples.php
